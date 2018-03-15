@@ -95,13 +95,5 @@
 - [JS忍者电子版](http://yuedu.163.com/book_reader/ca925a455c20496fbb0347e695c6d817_4)
 - [JS标准库](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects)
 
-用fetch向后台请求数据，后台返回一个文件流实现导出Excel表
-  .then(response => response.blob())
-        .then(blob => {
-            var url = window.URL.createObjectURL(blob);
-            var a = document.createElement('a');
-            a.href = url;
-            a.download = "filename.xlsx";
-            a.click();                    
-        });
+
 
