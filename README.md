@@ -1,5 +1,6 @@
 # 书签  
 也许会有用，需要整理
+
 ## [SharePoint WebPart](http://www.cnblogs.com/jianyus/p/3458374.html)
 - [sharepoint：Web部件](http://cnc.ucr.edu/sharepoint/webparts.html)
 - [SP API](https://msdn.microsoft.com/en-us/library/office/ee538683(v=office.14).aspx)
@@ -71,6 +72,8 @@
 - [V8](http://blog.crimx.com/2015/03/29/javascript-hoist-under-the-hood/)
 - [翻墙](https://plus.google.com/+GhostAssassin/posts/gLDd5iDDG1V)
 - [掘金 community](https://juejin.im/welcome/frontend)
+## forum
+- [伯乐在线-web](http://web.jobbole.com/)
  
 - [CSS online](http://css.doyoe.com/)
 - [css颜色在线转换](http://colorizer.org/)
