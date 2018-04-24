@@ -100,7 +100,8 @@
 - [在线画图](https://www.draw.io/?splash=0)
 - [JS忍者电子版](http://yuedu.163.com/book_reader/ca925a455c20496fbb0347e695c6d817_4)
 - [JS标准库](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects)
-
+## 不错的简历
+- [markdown版本](https://github.com/Blankj/resume)
 ## [Web Accessibility](https://github.com/mifengxiaochang/zaqizaba/edit/master/README.md)
 - [无障碍参考文档](./accessibility%20参考文档_v1.0.2.docx)
 
