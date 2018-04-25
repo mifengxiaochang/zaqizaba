@@ -119,3 +119,8 @@
 ![transform](./o-1.png)
 
 
+简单爬虫(python)
+
+![python](./p-1.png)
+
+
