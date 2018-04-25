@@ -107,5 +107,10 @@
 - [无障碍参考文档](./accessibility%20参考文档_v1.0.2.docx)
 ## markdown
 [pandoc--转换工具](https://blog.csdn.net/lanchunhui/article/details/70336595)
+将Markdown转换HTML、doc、语句： 
+
+-o: 输出到file文件 
+
+![transform](./o-1.png)
 
 
