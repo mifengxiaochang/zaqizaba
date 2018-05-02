@@ -45,6 +45,7 @@
 - [Redux Demo](https://segmentfault.com/a/1190000005933397)
 - [es6](http://web.jobbole.com/tag/es6/page/2/)
 - [es6字符串](http://www.cnblogs.com/wenJiaQi/p/7235390.html)
+- [Reacr源码](http://web.jobbole.com/94414/)
 
 ### [sublime 搭建React](http://blog.csdn.net/yczz/article/details/50469388)
 - [sublime无法使用Package Control或插件安装失败的解决方法](http://blog.csdn.net/freshlover/article/details/44261229/)
