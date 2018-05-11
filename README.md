@@ -54,6 +54,7 @@
 
 ## [SQL](http://blog.knowsky.com/208115.htm)
 - [SQL test](https://segmentfault.com/a/1190000005933397)
+- [数据迁移](https://www.cnblogs.com/fishparadise/p/4592789.html)
 
 - [基础语句](http://blog.knowsky.com/208115.htm)
 - [练习题](http://blog.csdn.net/suheonline/article/details/17396197)
