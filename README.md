@@ -54,6 +54,10 @@
 
 ## [SQL](http://blog.knowsky.com/208115.htm)
 - [SQL test](https://segmentfault.com/a/1190000005933397)
+
+- [基础语句](http://blog.knowsky.com/208115.htm)
+- [练习题](http://blog.csdn.net/suheonline/article/details/17396197)
+
 ## [angularJS](http://blog.csdn.net/u014737138/article/details/50017071)
 - [Angular community](http://www.angularjs.cn/A09C)
 - [project](https://eservice-rpg-stg.msf.gov.sg/MSFPortal/ECRM/Pages/Index/Index.aspx)
@@ -73,6 +77,8 @@
 - [V8](http://blog.crimx.com/2015/03/29/javascript-hoist-under-the-hood/)
 - [翻墙](https://plus.google.com/+GhostAssassin/posts/gLDd5iDDG1V)
 - [掘金 community](https://juejin.im/welcome/frontend)
+
+
 ## forum
 - [伯乐在线-web](http://web.jobbole.com/)
 ## konckout
@@ -84,6 +90,8 @@
 - [Flex兼容写法](https://www.cnblogs.com/iriszhang/p/6102524.html)
 
 - [UNICODE编码](http://blog.csdn.net/tectool/article/details/51577914)
+
+
 - [XSS](https://www.lvtao.net/dev/xss.html)
 - [for优化](http://www.jb51.net/article/30947.htm)
 - [数组去重](http://blog.csdn.net/sinat_17775997/article/details/73558160)
@@ -134,4 +142,6 @@
 ![python](./p-1.png)
 
 - [误删文件](https://jingyan.baidu.com/article/d5c4b52bcbce04da570dc54c.html)
+
+
 
