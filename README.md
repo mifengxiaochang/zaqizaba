@@ -43,6 +43,7 @@
 - [Redux 进阶](https://github.com/kenberkeley/redux-simple-tutorial/blob/master/redux-advanced-tutorial.md)
 - [fetch 组件](https://github.com/Justin-lu/react-redux-antd/blob/master/src/utils/cFetch.js)
 - [Redux Demo](https://segmentfault.com/a/1190000005933397)
+## [Es6](http://es6.ruanyifeng.com/)
 - [es6](http://web.jobbole.com/tag/es6/page/2/)
 - [es6字符串](http://www.cnblogs.com/wenJiaQi/p/7235390.html)
 - [Reacr源码](http://web.jobbole.com/94414/)
