@@ -44,7 +44,7 @@
 - [fetch 组件](https://github.com/Justin-lu/react-redux-antd/blob/master/src/utils/cFetch.js)
 - [Redux Demo](https://segmentfault.com/a/1190000005933397)
 - [React 16 错误处理](https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html)
-- [React 16新特性](https://www.cnblogs.com/ruankr/p/8268829.html)
+- [React 16新特性](https://www.imooc.com/article/20605?block_id=tuijian_wz)
 
 ## [Es6](http://es6.ruanyifeng.com/)
 - [es6](http://web.jobbole.com/tag/es6/page/2/)
